@@ -7,5 +7,4 @@
    * [貢獻指南](1.Prologue/contributions.md)
 * 環境設定
    * null
-   * 2
 
