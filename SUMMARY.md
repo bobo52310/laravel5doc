@@ -6,5 +6,5 @@
    * [升級指南](1.Prologue/releases.md)
    * [貢獻指南](1.Prologue/contributions.md)
 * [環境設定](2.Setup/README.md)
-   * null
+   * [安裝](2.Setup/installation.md)
 
