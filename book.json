@@ -3,6 +3,8 @@
         "disqus"
     ],
     "pluginsConfig": {
-
+        "disqus": {
+            "shortName": "laravel-5-doc-gitbook"
+        }
     }
 }
