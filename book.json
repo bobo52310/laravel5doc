@@ -3,10 +3,6 @@
         "disqus"
     ],
     "pluginsConfig": {
-        "disqus": {
-            "disqus": {
-                "shortName": "你的留言板名稱"
-            }
-        }
+
     }
 }
