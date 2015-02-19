@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * 前言
-* 發行說明
+* [發行說明](1.Prologue/releases.md)
 
